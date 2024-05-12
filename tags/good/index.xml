@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>good on 阿喵的家</title>
+    <link>https://aptx888.github.io/tags/good/</link>
+    <description>Recent content in good on 阿喵的家</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 12 May 2024 13:07:47 +0900</lastBuildDate>
+    <atom:link href="https://aptx888.github.io/tags/good/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>阿喵的第一篇文章</title>
+      <link>https://aptx888.github.io/blog/test/</link>
+      <pubDate>Sun, 12 May 2024 13:07:47 +0900</pubDate>
+      <guid>https://aptx888.github.io/blog/test/</guid>
+      <description>hello world&#xA;我是阿喵&#xA;一级标题，很大 二级标题 三级标题 四级标题 五级标题 六级标题，最小的 我是阿喵，我喜欢学习</description>
+    </item>
+  </channel>
+</rss>
